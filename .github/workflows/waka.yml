@@ -1,13 +1,16 @@
 name: Waka Readme
 
 on:
-  schedule:
-    - cron: "0 */12 * * *"
   workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+
+permissions:
+  contents: write
 
 jobs:
   update-readme:
-    name: Update Readme with WakaTime stats
+    name: Update README with WakaTime stats
     runs-on: ubuntu-latest
 
     steps:
