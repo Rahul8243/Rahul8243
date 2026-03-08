@@ -96,6 +96,10 @@ Operating system algorithms like memory allocation, page replacement etc.
 
 ---
 
+## 💡 Random Developer Wisdom
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
 ## 🤝 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rahul-kumar-aiml/)
