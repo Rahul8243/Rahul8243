@@ -97,7 +97,6 @@ Operating system algorithms like memory allocation, page replacement etc.
 ---
 
 ## 💡 Random Developer Wisdom
-
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in)
 
 ## 🤝 Connect With Me
