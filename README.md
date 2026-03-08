@@ -45,12 +45,6 @@ class RahulRaj:
 ```
 
 ---
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://github.com/Rahul8243/Rahul8243/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
 # ⚡ Tech Stack
 
 ### 💻 Programming
@@ -95,6 +89,13 @@ Operating system algorithms like memory allocation, page replacement etc.
 </p>
 
 ---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://github.com/Rahul8243/Rahul8243/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
 ## 🔥 3D Contribution Graph
 
 <p align="center">
