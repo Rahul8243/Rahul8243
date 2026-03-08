@@ -95,6 +95,15 @@ Operating system algorithms like memory allocation, page replacement etc.
 </p>
 
 ---
+## 🎉 Fun Achievements Gallery
+
+<p align="center">
+
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="250"/>
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="250"/>
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="250"/>
+
+</p>
 
 ## 💡 Random Developer Wisdom
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in)
