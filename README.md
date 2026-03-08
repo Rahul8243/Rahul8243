@@ -51,10 +51,6 @@ class RahulRaj:
 <img src="https://github.com/Rahul8243/Rahul8243/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
-## 🔥 3D Contribution Graph
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rahul8243&theme=tokyonight" />
-
 # ⚡ Tech Stack
 
 ### 💻 Programming
@@ -99,6 +95,12 @@ Operating system algorithms like memory allocation, page replacement etc.
 </p>
 
 ---
+## 🔥 3D Contribution Graph
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rahul8243&theme=tokyonight" />
+</p>
+
 ## 🎉 Fun Achievements Gallery
 
 <p align="center">
