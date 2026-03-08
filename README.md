@@ -14,32 +14,45 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 🚀 Rahul Kumar | Machine Learning & AI Enthusiast
-
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/Rahul8243/Rahul8243/blob/output/github-contribution-grid-snake.svg)
+<h1 align="center">Hi 👋, I'm Rahul Raj</h1>
+<h3 align="center">AI & ML Enthusiast | Python Developer | Computer Science Student</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Machine+Learning+Developer;AI+Enthusiast;Python+Developer;DSA+Learner&center=true&width=500&height=45">
+Building intelligent systems with data 🤖
 </p>
 
 ---
 
-# 🎯 About Me
+# 👨‍💻 About Me
 
-```javascript
-const developer = {
-    name: "Rahul Raj",
-    location: "India 🌏",
-    role: "Computer Science Student",
-    passion: ["Machine Learning", "Artificial Intelligence", "Data Science"],
-    currentFocus: "Building ML models and improving DSA skills",
-    funFact: "I love solving coding problems and building ML projects",
-    motto: "Code today, build the future tomorrow 🚀"
-};
+```python
+class RahulRaj:
 
-console.log("Welcome to my GitHub!");
+    def __init__(self):
+        self.name = "Rahul Raj"
+        self.location = "India 🇮🇳"
+        self.role = "AI / ML Student"
+
+        self.languages = ["Python", "SQL"]
+
+        self.interests = [
+            "Machine Learning",
+            "Artificial Intelligence",
+            "Data Science"
+        ]
+
+        self.current_focus = [
+            "Building ML models",
+            "Deep Learning",
+            "Improving DSA"
+        ]
+
+        self.projects = [
+            "Fake News Detection",
+            "Diabetes Prediction Model"
+        ]
+
+        self.fun_fact = "Turning data into intelligence 🤖"
 ```
 
 ---
