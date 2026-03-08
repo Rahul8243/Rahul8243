@@ -15,7 +15,7 @@ Building intelligent systems with data 🤖
 # 👨‍💻 About Me
 
 ```python
-class RahulRaj:
+class Rahulkumar:
 
     def __init__(self):
         self.name = "Rahul Kumar"
@@ -51,7 +51,7 @@ class RahulRaj:
 
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
 ![SQL](https://img.shields.io/badge/SQL-orange?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge\&logo=git)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 
 ### 📊 Data Science & ML
 
