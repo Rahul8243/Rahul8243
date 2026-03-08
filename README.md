@@ -127,6 +127,8 @@ Operating system algorithms like memory allocation and page replacement.
 <img src="https://github-profile-trophy.vercel.app/?username=Rahul8243&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </p>
+
+---
 ## 💡 Random Developer Wisdom
 
 <p align="center">
