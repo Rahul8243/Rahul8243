@@ -16,4 +16,4 @@ jobs:
       - name: Update LeetCode Stats
         uses: joshcai/leetcode-stats-action@master
         with:
-          username: YOUR_LEETCODE_USERNAME
+          username: rahul8243
