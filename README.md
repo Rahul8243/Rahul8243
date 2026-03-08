@@ -59,10 +59,12 @@ class Rahulkumar:
 ![Pandas](https://img.shields.io/badge/Pandas-darkblue?style=for-the-badge\&logo=pandas)
 ![NumPy](https://img.shields.io/badge/Numpy-blue?style=for-the-badge\&logo=numpy)
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-orange?style=for-the-badge\&logo=scikit-learn)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-blue?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-darkgreen?style=for-the-badge)
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Featured Machine Learning Projects
 
 ### 🏏 IPL Winner Predictor
 
@@ -98,7 +100,7 @@ Operating system algorithms like memory allocation and page replacement.
 
 <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Rahul8243&layout=compact&theme=tokyonight"/>
 
-</p>>
+</p>
 
 
 # 🔥 GitHub Streak
@@ -109,19 +111,19 @@ Operating system algorithms like memory allocation and page replacement.
 
 ---
 
-
+## 🐍 Contribution Snake
 <p align="center">
 <img src="https://github.com/Rahul8243/Rahul8243/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
-## 🔥Contribution Graph
+## 📈 GitHub Contribution Graph
 
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rahul8243&theme=tokyonight" />
 </p>
 
 
-## ⏱ Weekly Coding Stats
+## ⏱ WakaTime Coding Stats
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
