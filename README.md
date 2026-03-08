@@ -49,7 +49,6 @@ class RahulRaj:
 <p align="center">
 <img src="https://github.com/Rahul8243/Rahul8243/blob/output/github-contribution-grid-snake-dark.svg" />
 </p>
-
 # ⚡ Tech Stack
 
 ### 💻 Programming
