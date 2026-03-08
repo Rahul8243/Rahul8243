@@ -118,12 +118,13 @@ Operating system algorithms like memory allocation, page replacement etc.
 
 </p>
 
+---
+
 ## 🤝 Let's Connect
 
 <p align="center">
 
-💬 Feel free to reach out if you want to discuss  
-Machine Learning, AI, or interesting tech ideas!
+Open to collaboration, Machine Learning discussions, or interesting tech ideas 🚀
 
 </p>
 
@@ -139,3 +140,22 @@ Machine Learning, AI, or interesting tech ideas!
 
 </p>
 
+---
+
+<p align="center">
+
+⭐ If you like my work, consider giving a star to my repositories!
+
+</p>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Rahul8243&label=Profile%20views&color=0e75b6&style=flat"/>
+
+</p>
+
+<p align="center">
+
+🚀 Thanks for visiting my GitHub profile!
+
+</p>
