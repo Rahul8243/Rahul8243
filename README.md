@@ -120,6 +120,13 @@ Operating system algorithms like memory allocation and page replacement.
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rahul8243&theme=tokyonight" />
 </p>
 
+
+## ⏱ Weekly Coding Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 ## 🏆 GitHub Trophies
 
 <p align="center">
@@ -129,6 +136,7 @@ Operating system algorithms like memory allocation and page replacement.
 </p>
 
 ---
+
 ## 💡 Random Developer Wisdom
 
 <p align="center">
