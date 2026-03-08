@@ -77,10 +77,16 @@ Operating system algorithms like memory allocation, page replacement etc.
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Rahul8243&show_icons=true&theme=tokyonight"/>
+</p>
+
+## 📊 Most Used Languages
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul8243&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -89,14 +95,6 @@ Operating system algorithms like memory allocation, page replacement etc.
 
 <p align="center">
 <img src="https://streak-stats.demolab.com/?user=Rahul8243&theme=tokyonight"/>
-</p>
-
----
-
-# 📈 Most Used Languages
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul8243&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
