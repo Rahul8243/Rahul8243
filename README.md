@@ -101,16 +101,11 @@ Operating system algorithms like memory allocation, page replacement etc.
 </p>
 
 ---
-
-# 🤝 Connect With Me
-
 ## 🤝 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rahul-kumar-aiml/)
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:rahulrajmahi611@gmail.com)
 
 ---
-
-
 ⭐ If you like my work, consider giving a star to my repositories!
 
