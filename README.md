@@ -126,6 +126,76 @@ Operating system algorithms like memory allocation and page replacement.
 ## ⏱ WakaTime Coding Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 50.0 kB Used in GitHub's Storage 
+ > 
+> 🏆 65 Contributions in the Year 2026
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 13 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                8 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+🌆 Daytime                92 commits          ███████████████████░░░░░░   74.19 % 
+🌃 Evening                22 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
+🌙 Night                  2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   8 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+Tuesday                  9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
+Wednesday                21 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
+Thursday                 15 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
+Friday                   6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
+Saturday                 9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
+Sunday                   56 commits          ███████████░░░░░░░░░░░░░░   45.16 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   9 repos             ███████████████████░░░░░░   75.00 % 
+Jupyter Notebook         3 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/Rahul8243/Rahul8243/main/assets/bar_graph.png)
+
+
+ Last Updated on 08/03/2026 11:38:49 UTC
 <!--END_SECTION:waka-->
 
 
