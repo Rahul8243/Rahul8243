@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20%26%20ML%20Enthusiast;Python%20Developer;Machine%20Learning%20Explorer&center=true&width=600&height=45">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20%26%20ML%20Enthusiast;Python%20Developer;Machine%20Learning%20Explorer;Data%20Science&center=true&width=600&height=45">
 </p>
 
 <h1 align="center">Hi , I'm Rahul Kumar</h1>
@@ -64,28 +64,40 @@ class Rahulkumar:
 
 # 🚀 Featured Projects
 
+### 🏏 IPL Winner Predictor
+
+Machine Learning model that predicts the winning team of an IPL match  
+based on match statistics like teams, runs, overs, wickets, and venue.
+
 ### 📰 Fake News Detection
 
-Machine Learning model that detects fake news articles.
+Machine Learning model that classifies news articles as **real or fake**
+using Natural Language Processing techniques.
 
 ### 🩺 Diabetes Prediction Model
 
-ML model that predicts diabetes using medical dataset.
+Machine Learning model that predicts the risk of diabetes
+using medical dataset features.
+
+
+
+# 📚 Academic Coursework
 
 ### 🧠 Algorithm Design Lab
-
 Implementation of various algorithms in Python.
 
 ### ⚙️ Operating System Lab
-
-Operating system algorithms like memory allocation, page replacement etc.
+Operating system algorithms like memory allocation and page replacement.
 
 
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Rahul8243&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul8243&layout=compact&theme=tokyonight" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rahul8243&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul8243&layout=compact&theme=tokyonight"/>
+
 </p>
 
 
