@@ -78,7 +78,6 @@ Operating system algorithms like memory allocation, page replacement etc.
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Rahul8243&show_icons=true&theme=tokyonight"/>
 </p>
@@ -101,8 +100,10 @@ Operating system algorithms like memory allocation, page replacement etc.
 
 # 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)]()
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge\&logo=gmail)]()
+## 🤝 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rahul-kumar-aiml/)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:rahulrajmahi611@gmail.com)
 
 ---
 
