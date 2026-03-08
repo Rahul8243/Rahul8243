@@ -46,6 +46,10 @@ class RahulRaj:
 
 ---
 
+<p align="center">
+<img src="https://github.com/Rahul8243/Rahul8243/blob/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
 # ⚡ Tech Stack
 
 ### 💻 Programming
@@ -81,18 +85,7 @@ Implementation of various algorithms in Python.
 
 Operating system algorithms like memory allocation, page replacement etc.
 
----
 
-## 📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Rahul8243&show_icons=true&theme=tokyonight"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul8243&layout=compact&theme=tokyonight"/> </p>>
-
-## 📊 Most Used Languages
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul8243&layout=compact&theme=tokyonight"/>
-</p>
-
----
 
 # 🔥 GitHub Streak
 
@@ -101,9 +94,6 @@ Operating system algorithms like memory allocation, page replacement etc.
 </p>
 
 ---
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/Rahul8243/Rahul8243/blob/output/github-contribution-grid-snake.svg)
 
 ## 🤝 Connect With Me
 
