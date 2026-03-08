@@ -92,17 +92,6 @@ Implementation of various algorithms in Python.
 Operating system algorithms like memory allocation and page replacement.
 
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Rahul8243&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Rahul8243&layout=compact&theme=tokyonight"/>
-
-</p>
-
-
 # 🔥 GitHub Streak
 
 <p align="center">
@@ -122,6 +111,10 @@ Operating system algorithms like memory allocation and page replacement.
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rahul8243&theme=tokyonight" />
 </p>
 
+## 🧠 LeetCode Stats
+
+<!--START_SECTION:leetcode-->
+<!--END_SECTION:leetcode-->
 
 ## ⏱ WakaTime Coding Stats
 
@@ -197,15 +190,6 @@ Jupyter Notebook         3 repos             ██████░░░░░�
 
  Last Updated on 08/03/2026 11:38:49 UTC
 <!--END_SECTION:waka-->
-
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Rahul8243&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</p>
 
 ---
 
