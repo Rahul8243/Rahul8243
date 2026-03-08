@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20%26%20ML%20Enthusiast;Python%20Developer;Machine%20Learning%20Explorer&center=true&width=500&height=45">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20%26%20ML%20Enthusiast;Python%20Developer;Machine%20Learning%20Explorer&center=true&width=600&height=45">
 </p>
 
 <h1 align="center">Hi , I'm Rahul Kumar</h1>
@@ -18,7 +18,7 @@ Building intelligent systems with data 🤖
 class RahulRaj:
 
     def __init__(self):
-        self.name = "Rahul Raj"
+        self.name = "Rahul Kumar"
         self.location = "India 🇮🇳"
         self.role = "AI / ML Student"
 
@@ -49,7 +49,7 @@ class RahulRaj:
 
 ### 💻 Programming
 
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge\&logo=python)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
 ![SQL](https://img.shields.io/badge/SQL-orange?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge\&logo=git)
 
@@ -81,6 +81,14 @@ Implementation of various algorithms in Python.
 Operating system algorithms like memory allocation, page replacement etc.
 
 
+# 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Rahul8243&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul8243&layout=compact&theme=tokyonight" />
+</p>
+
+
 
 # 🔥 GitHub Streak
 
@@ -100,16 +108,6 @@ Operating system algorithms like memory allocation, page replacement etc.
 
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rahul8243&theme=tokyonight" />
-</p>
-
-## 🎉 Fun Achievements Gallery
-
-<p align="center">
-
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="250"/>
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="250"/>
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="250"/>
-
 </p>
 
 ## 💡 Random Developer Wisdom
