@@ -95,9 +95,7 @@ Operating system algorithms like memory allocation, page replacement etc.
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Rahul8243&show_icons=true&theme=tokyonight"/>
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Rahul8243&show_icons=true&theme=tokyonight"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul8243&layout=compact&theme=tokyonight"/> </p>>
 
 ## 📊 Most Used Languages
 
