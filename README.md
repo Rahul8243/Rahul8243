@@ -14,8 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Rahul Raj</h1>
+<h1 align="center">Hi , I'm Rahul Kumar</h1>
 <h3 align="center">AI & ML Enthusiast | Python Developer | Computer Science Student</h3>
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/Rahul8243/Rahul8243/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center">
 Building intelligent systems with data 🤖
