@@ -110,11 +110,14 @@ Operating system algorithms like memory allocation and page replacement.
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rahul8243&theme=tokyonight" />
 </p>
+>
 
 ## 🧠 LeetCode Stats
 
-<!--START_SECTION:leetcode-->
-<!--END_SECTION:leetcode-->
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/Rahulkr102?theme=dark&font=Baloo&ext=heatmap"/>
+</p>
+
 
 ## ⏱ WakaTime Coding Stats
 
