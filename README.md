@@ -111,13 +111,31 @@ Operating system algorithms like memory allocation, page replacement etc.
 </p>
 
 ## 💡 Random Developer Wisdom
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in)
 
-## 🤝 Connect With Me
+<p align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rahul-kumar-aiml/)
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:rahulrajmahi611@gmail.com)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in"/>
 
----
-⭐ If you like my work, consider giving a star to my repositories!
+</p>
+
+## 🤝 Let's Connect
+
+<p align="center">
+
+💬 Feel free to reach out if you want to discuss  
+Machine Learning, AI, or interesting tech ideas!
+
+</p>
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/rahul-kumar-aiml/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:rahulrajmahi611@gmail.com">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
 
