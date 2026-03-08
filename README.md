@@ -16,6 +16,10 @@ Here are some ideas to get you started:
 -->
 # 🚀 Rahul Kumar | Machine Learning & AI Enthusiast
 
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/Rahul8243/Rahul8243/blob/output/github-contribution-grid-snake.svg)
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Machine+Learning+Developer;AI+Enthusiast;Python+Developer;DSA+Learner&center=true&width=500&height=45">
 </p>
@@ -106,9 +110,7 @@ Operating system algorithms like memory allocation, page replacement etc.
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:rahulrajmahi611@gmail.com)
 
 ---
-## 🐍 Contribution Snake
 
-![snake gif](https://github.com/Rahul8243/Rahul8243/blob/output/github-contribution-grid-snake.svg)
 
 ⭐ If you like my work, consider giving a star to my repositories!
 
