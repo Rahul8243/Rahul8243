@@ -121,7 +121,11 @@ Operating system algorithms like memory allocation and page replacement.
 </a>
 
 <a href="https://www.hackerrank.com/profile/rahulrajmahi611">
-<img src="https://img.shields.io/badge/HackerRank-rahulrajmahi611-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+<img src="https://img.shields.io/badge/HackerRank-rahulrajmahi611-2EC866?style=for-the-badge&logo=hackerrank"/>
+</a>
+
+<a href="https://www.codechef.com/users/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/CodeChef-YOUR_USERNAME-brown?style=for-the-badge&logo=codechef"/>
 </a>
 
 </p>
