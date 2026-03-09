@@ -124,8 +124,8 @@ Operating system algorithms like memory allocation and page replacement.
 <img src="https://img.shields.io/badge/HackerRank-rahulrajmahi611-2EC866?style=for-the-badge&logo=hackerrank"/>
 </a>
 
-<a href="https://www.codechef.com/users/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/CodeChef-YOUR_USERNAME-brown?style=for-the-badge&logo=codechef"/>
+<a href="https://www.codechef.com/users/rahul_kumar102">
+<img src="https://img.shields.io/badge/CodeChef-rahul_kumar102-brown?style=for-the-badge&logo=codechef"/>
 </a>
 
 </p>
