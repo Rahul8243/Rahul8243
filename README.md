@@ -37,6 +37,7 @@ class Rahulkumar:
         ]
 
         self.projects = [
+            "IPL Winner Predictor"
             "Fake News Detection",
             "Diabetes Prediction Model"
         ]
@@ -124,8 +125,6 @@ Operating system algorithms like memory allocation and page replacement.
 </a>
 
 </p>
-
-
 
 ## 🧠 LeetCode Stats
 
