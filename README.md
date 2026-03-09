@@ -110,7 +110,22 @@ Operating system algorithms like memory allocation and page replacement.
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rahul8243&theme=tokyonight" />
 </p>
->
+
+## 🧠 Coding Platforms
+
+<p align="center">
+
+<a href="https://leetcode.com/u/Rahulkr102/">
+<img src="https://img.shields.io/badge/LeetCode-Rahulkr102-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/rahulrajmahi611">
+<img src="https://img.shields.io/badge/HackerRank-rahulrajmahi611-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+</p>
+
+
 
 ## 🧠 LeetCode Stats
 
