@@ -96,7 +96,7 @@ Operating system algorithms like memory allocation and page replacement.
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=Rahul8243&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=Rahul8243&theme=tokyonight&cache_seconds=86400"/>
 </p>
 
 ---
