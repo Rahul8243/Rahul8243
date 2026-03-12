@@ -83,6 +83,37 @@ Machine Learning model that predicts the risk of diabetes
 using medical dataset features.
 
 
+---
+
+# ☁️ Google Colab Development
+
+Most Machine Learning experiments and model training were performed using **Google Colab notebooks**.
+
+### 📊 Colab Work Summary
+
+| Metric | Details |
+|------|------|
+| Platform | Google Colab |
+| Notebook Experiments | Multiple ML model runs |
+| Tasks | Data Cleaning, Model Training, Evaluation |
+| Libraries Used | Pandas, NumPy, Scikit-Learn, Matplotlib |
+| Environment | Python (Jupyter Notebook) |
+
+### 📓 Example Notebook
+
+[Open in Google Colab](https://colab.research.google.com/#scrollTo=GJBs_flRovLc)
+
+### 🧠 Work Done in Colab
+
+- Data preprocessing and feature engineering  
+- Training machine learning models  
+- Model evaluation and accuracy testing  
+- Visualization of data using Matplotlib and Seaborn
+
+
+![Google Colab](https://img.shields.io/badge/Platform-Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab)
+
+
 
 # 📚 Academic Coursework
 
