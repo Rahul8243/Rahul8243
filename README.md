@@ -171,66 +171,20 @@ Operating system algorithms like memory allocation and page replacement.
 ## ⏱ WakaTime Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%201%20min-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-258-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-260-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 50.0 kB Used in GitHub's Storage 
  > 
-> 🏆 85 Contributions in the Year 2026
+> 🏆 90 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 14 Public Repositories 
+> 📜 15 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
-🌆 Daytime                101 commits         ██████████████████░░░░░░░   70.63 % 
-🌃 Evening                30 commits          █████░░░░░░░░░░░░░░░░░░░░   20.98 % 
-🌙 Night                  2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
-Tuesday                  13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Wednesday                24 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
-Thursday                 18 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
-Friday                   6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
-Saturday                 9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
-Sunday                   61 commits          ███████████░░░░░░░░░░░░░░   42.66 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Python                   2 hrs 51 mins       ████████████████████████░   94.43 % 
-Other                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
-
-🔥 Editors: 
-VS Code                  3 hrs 1 min         █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-Leetcode                 1 hr 5 mins         █████████░░░░░░░░░░░░░░░░   36.20 % 
-IRCD                     58 mins             ████████░░░░░░░░░░░░░░░░░   32.27 % 
-AI                       57 mins             ████████░░░░░░░░░░░░░░░░░   31.51 % 
-IRCD_code                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-
-💻 Operating System: 
-Windows                  3 hrs 1 min         █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -245,7 +199,7 @@ Jupyter Notebook         3 repos             ██████░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Rahul8243/Rahul8243/main/assets/bar_graph.png)
 
 
- Last Updated on 13/03/2026 01:48:00 UTC
+ Last Updated on 14/03/2026 01:45:33 UTC
 <!--END_SECTION:waka-->
 
 ---
