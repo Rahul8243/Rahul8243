@@ -76,10 +76,6 @@ class RahulKumar:
 ![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 </div>
-### 🗄️ Databases & Data Tools
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ## 🧠 Machine Learning Workflow
 
@@ -263,17 +259,6 @@ Python                   10 repos            ███████████�
 Jupyter Notebook         3 repos             ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
 ```
 
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/Rahul8243/Rahul8243/main/assets/bar_graph.png)
-
-
- Last Updated on 15/03/2026 02:01:08 UTC
-<!--END_SECTION:waka-->
-
----
 
 ## 💡 Random Developer Wisdom
 
