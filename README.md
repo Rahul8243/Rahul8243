@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20%26%20ML%20Enthusiast;Python%20Developer;Machine%20Learning%20Explorer;Data%20Science&center=true&width=600&height=45">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20%26%20ML%20Enthusiast;Python%20Developer;Machine%20Learning%20Explorer;Data%20Science&center=true&width=600&height=60">
 </p>
 
 <h1 align="center">Hi , I'm Rahul Kumar</h1>
@@ -118,12 +118,14 @@ Worked on data preprocessing, feature engineering, model training, and evaluatio
 
 ### 📊 Data Analysis
 Performed exploratory data analysis and visualization using Pandas, Matplotlib, and Seaborn to extract insights from datasets.
+
+---
+
 # ☁️ Google Colab Development
 
 Most Machine Learning experiments and model training were performed using **Google Colab notebooks**.
 
 ### 📊 Colab Work Summary
-<div a;ign ='center'>
 
 | Metric | Details |
 |------|------|
@@ -132,7 +134,6 @@ Most Machine Learning experiments and model training were performed using **Goog
 | Tasks | Data Cleaning, Model Training, Model Evaluation |
 | Libraries Used | Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn |
 | Environment | Python (Google Colab Notebook) |
-</div>
 
 ### 📓 Example Notebook
 
@@ -145,8 +146,9 @@ Most Machine Learning experiments and model training were performed using **Goog
 - Model evaluation and accuracy testing  
 - Visualization of data using Matplotlib and Seaborn
 
-
 ![Google Colab](https://img.shields.io/badge/Platform-Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab)
+
+---
 
 
 # 🔥 GitHub Streak
