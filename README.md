@@ -100,6 +100,24 @@ Machine Learning model that predicts the risk of diabetes
 using medical dataset features.
 
 ---
+
+# 📚 Academic Coursework
+
+### 🧠 Data Structures & Algorithms
+Implemented fundamental algorithms and problem-solving techniques using Python, including sorting, searching, and complexity analysis.
+
+### ⚙️ Operating Systems
+Studied operating system concepts such as memory management, page replacement algorithms, and process scheduling.
+
+### 🗄️ Database Management Systems
+Worked with MySQL for database design, SQL queries, joins, and data management.
+
+### 🤖 Machine Learning
+Built predictive models using Python libraries such as Pandas, NumPy, and Scikit-Learn. 
+Worked on data preprocessing, feature engineering, model training, and evaluation for real-world datasets.
+
+### 📊 Data Analysis
+Performed exploratory data analysis and visualization using Pandas, Matplotlib, and Seaborn to extract insights from datasets.
 # ☁️ Google Colab Development
 
 Most Machine Learning experiments and model training were performed using **Google Colab notebooks**.
@@ -127,16 +145,6 @@ Most Machine Learning experiments and model training were performed using **Goog
 
 
 ![Google Colab](https://img.shields.io/badge/Platform-Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab)
-
-
-
-# 📚 Academic Coursework
-
-### 🧠 Algorithm Design Lab
-Implementation of various algorithms in Python.
-
-### ⚙️ Operating System Lab
-Operating system algorithms like memory allocation and page replacement.
 
 
 # 🔥 GitHub Streak
