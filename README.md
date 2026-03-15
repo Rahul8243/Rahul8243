@@ -61,8 +61,9 @@ class Rahulkumar:
 ![Seaborn](https://img.shields.io/badge/Seaborn-darkgreen?style=for-the-badge)
 
 ### ☁️ Platforms
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab)
-![Jupyter](https://img.shields.io/badge/Jupyter-orange?style=for-the-badge&logo=jupyter)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 
 # 🚀 Featured Machine Learning Projects
 
