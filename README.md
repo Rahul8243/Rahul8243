@@ -123,6 +123,7 @@ Performed exploratory data analysis and visualization using Pandas, Matplotlib, 
 Most Machine Learning experiments and model training were performed using **Google Colab notebooks**.
 
 ### 📊 Colab Work Summary
+<div a;ign ='center'>
 
 | Metric | Details |
 |------|------|
@@ -131,6 +132,7 @@ Most Machine Learning experiments and model training were performed using **Goog
 | Tasks | Data Cleaning, Model Training, Model Evaluation |
 | Libraries Used | Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn |
 | Environment | Python (Google Colab Notebook) |
+</div>
 
 ### 📓 Example Notebook
 
