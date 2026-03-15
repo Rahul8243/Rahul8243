@@ -288,21 +288,16 @@ Open to collaboration, Machine Learning discussions, or interesting tech ideas �
 
 ---
 
-<p align="center">
+<div align="center">
 
 ⭐ If you like my work, consider giving a star to my repositories!
 
-</p>
+<br><br>
 
-
-<p align="center">
 <img src="https://komarev.com/ghpvc/?username=Rahul8243&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
-</p>
 
-
-
-<p align="center">
+<br><br>
 
 🚀 Thanks for visiting my GitHub profile!
 
-</p>
+</div>
