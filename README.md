@@ -53,10 +53,15 @@ class Rahulkumar:
 ![SQL](https://img.shields.io/badge/SQL-orange?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 
-### 📊 Data Science & Machine Learning
+### 🤖 Machine Learning & Deep Learning
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-green?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-blue?style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow)
+![Keras](https://img.shields.io/badge/Keras-red?style=for-the-badge&logo=keras)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-orange?style=for-the-badge&logo=scikit-learn)
 ![NumPy](https://img.shields.io/badge/Numpy-blue?style=for-the-badge&logo=numpy)
 ![Pandas](https://img.shields.io/badge/Pandas-darkblue?style=for-the-badge&logo=pandas)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-orange?style=for-the-badge&logo=scikit-learn)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-blue?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-darkgreen?style=for-the-badge)
 
@@ -95,9 +100,9 @@ Most Machine Learning experiments and model training were performed using **Goog
 |------|------|
 | Platform | Google Colab |
 | Notebook Experiments | Multiple ML model runs |
-| Tasks | Data Cleaning, Model Training, Evaluation |
-| Libraries Used | Pandas, NumPy, Scikit-Learn, Matplotlib |
-| Environment | Python (Jupyter Notebook) |
+| Tasks | Data Cleaning, Model Training, Model Evaluation |
+| Libraries Used | Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn |
+| Environment | Python (Google Colab Notebook) |
 
 ### 📓 Example Notebook
 
