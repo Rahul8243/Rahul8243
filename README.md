@@ -15,7 +15,7 @@ Building intelligent systems with data 🤖
 # 👨‍💻 About Me
 
 ```python
-class Rahulkumar:
+class RahulKumar:
 
     def __init__(self):
         self.name = "Rahul Kumar"
@@ -37,7 +37,7 @@ class Rahulkumar:
         ]
 
         self.projects = [
-            "IPL Winner Predictor"
+            "IPL Winner Predictor",
             "Fake News Detection",
             "Diabetes Prediction Model"
         ]
@@ -48,13 +48,14 @@ class Rahulkumar:
 ---
 # ⚡ Tech Stack
 
+<div align="center">
+
 ### 💻 Programming
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
 ![SQL](https://img.shields.io/badge/SQL-orange?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 
 ### 🤖 Machine Learning & Deep Learning
-
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-green?style=for-the-badge)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-blue?style=for-the-badge)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow)
@@ -69,6 +70,21 @@ class Rahulkumar:
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab)
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+
+### 🗄️ Databases & Data Tools
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+</div>
+### 🗄️ Databases & Data Tools
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+## 🧠 Machine Learning Workflow
+
+Data Collection → Data Cleaning → Feature Engineering → Model Training → Model Evaluation → Model Deployment
+
 
 # 🚀 Featured Machine Learning Projects
 
@@ -87,9 +103,7 @@ using Natural Language Processing techniques.
 Machine Learning model that predicts the risk of diabetes
 using medical dataset features.
 
-
 ---
-
 # ☁️ Google Colab Development
 
 Most Machine Learning experiments and model training were performed using **Google Colab notebooks**.
