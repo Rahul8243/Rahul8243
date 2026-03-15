@@ -268,11 +268,11 @@ Jupyter Notebook         3 repos             ██████░░░░░�
 
 ## 🤝 Let's Connect
 
-<p align="center">
+<div align="center">
 
 Open to collaboration, Machine Learning discussions, or interesting tech ideas 🚀
 
-</p>
+</div>
 
 <p align="center">
 
