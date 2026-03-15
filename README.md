@@ -49,21 +49,20 @@ class Rahulkumar:
 # ⚡ Tech Stack
 
 ### 💻 Programming
-
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
 ![SQL](https://img.shields.io/badge/SQL-orange?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 
-### 📊 Data Science & ML
-
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-green?style=for-the-badge)
-![Pandas](https://img.shields.io/badge/Pandas-darkblue?style=for-the-badge\&logo=pandas)
-![NumPy](https://img.shields.io/badge/Numpy-blue?style=for-the-badge\&logo=numpy)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-orange?style=for-the-badge\&logo=scikit-learn)
+### 📊 Data Science & Machine Learning
+![NumPy](https://img.shields.io/badge/Numpy-blue?style=for-the-badge&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-darkblue?style=for-the-badge&logo=pandas)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-orange?style=for-the-badge&logo=scikit-learn)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-blue?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-darkgreen?style=for-the-badge)
 
----
+### ☁️ Platforms
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab)
+![Jupyter](https://img.shields.io/badge/Jupyter-orange?style=for-the-badge&logo=jupyter)
 
 # 🚀 Featured Machine Learning Projects
 
@@ -157,6 +156,10 @@ Operating system algorithms like memory allocation and page replacement.
 
 <a href="https://www.codechef.com/users/rahul_kumar102">
 <img src="https://img.shields.io/badge/CodeChef-rahul_kumar102-brown?style=for-the-badge&logo=codechef"/>
+</a>
+
+<a href="https://www.kaggle.com/rahulrajmahi">
+<img src="https://img.shields.io/badge/Kaggle-rahulrajmahi-20BEFF?style=for-the-badge&logo=kaggle"/>
 </a>
 
 </p>
