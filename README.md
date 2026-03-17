@@ -12,7 +12,7 @@ Building intelligent systems with data
 
 ---
 
-# 👨‍💻 About M
+# 👨‍💻 About Me
 
 ```python
 class RahulKumar:
