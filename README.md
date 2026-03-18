@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20%26%20ML%20Enthusiast;Python%20Developer;Machine%20Learning%20Explorer;Data%20Science&center=true&width=600&height=60">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20%26%20ML%20Enthusiast;Python%20Developer;Machine%20Learning%20Explorer;Data%20Science&center=true&width=600&height=65">
 </p>
 
 <h1 align="center">Hi , I'm Rahul Kumar</h1>
