@@ -149,7 +149,31 @@ Most Machine Learning experiments and model training were performed using **Goog
 ![Google Colab](https://img.shields.io/badge/Platform-Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab)
 
 ---
+# 📊 Kaggle Work
 
+Actively learning and building in Data Science & Machine Learning through Kaggle.
+
+### 🚀 Skills I'm Developing:
+- Python for Data Science  
+- Pandas for Data Analysis  
+- Machine Learning  
+- Deep Learning  
+
+### 📈 My Kaggle Activity:
+- Created 29+ notebooks  
+- Participated in competitions  
+- Working with real-world datasets  
+
+### 🧠 What I Do:
+- Data Cleaning & Preprocessing  
+- Exploratory Data Analysis (EDA)  
+- Model Building & Evaluation  
+- Learning from Kaggle Notebooks  
+
+### 🔗 Kaggle Profile:
+<a href="https://www.kaggle.com/rahulrajmahi">
+<img src="https://img.shields.io/badge/Kaggle-rahulrajmahi-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</a>
 
 # 🔥 GitHub Streak
 
