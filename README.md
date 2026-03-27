@@ -170,10 +170,6 @@ Actively learning and building in Data Science & Machine Learning through Kaggle
 - Model Building & Evaluation  
 - Learning from Kaggle Notebooks  
 
-### 🔗 Kaggle Profile:
-<a href="https://www.kaggle.com/rahulrajmahi">
-<img src="https://img.shields.io/badge/Kaggle-rahulrajmahi-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-</a>
 
 # 🔥 GitHub Streak
 
@@ -221,79 +217,6 @@ Actively learning and building in Data Science & Machine Learning through Kaggle
 <p align="center">
 <img src="https://leetcard.jacoblin.cool/Rahulkr102?theme=dark&font=Baloo&ext=heatmap"/>
 </p>
-
-
-## ⏱ WakaTime Coding Stats
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%209%20mins-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-260-blue?style=flat)
-
-**🐱 My GitHub Data** 
-
-> 📦 50.0 kB Used in GitHub's Storage 
- > 
-> 🏆 94 Contributions in the Year 2026
- > 
-> 💼 Opted to Hire
- > 
-> 📜 15 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
-🌆 Daytime                103 commits         █████████████████░░░░░░░░   68.21 % 
-🌃 Evening                30 commits          █████░░░░░░░░░░░░░░░░░░░░   19.87 % 
-🌙 Night                  4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
-Tuesday                  13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
-Wednesday                24 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
-Thursday                 18 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
-Friday                   10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
-Saturday                 11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
-Sunday                   63 commits          ██████████░░░░░░░░░░░░░░░   41.72 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Python                   1 hr 47 mins        █████████████████████░░░░   82.97 % 
-SQL                      19 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
-
-🔥 Editors: 
-VS Code                  2 hrs 9 mins        █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-Leetcode                 50 mins             ██████████░░░░░░░░░░░░░░░   39.12 % 
-IRCD                     35 mins             ███████░░░░░░░░░░░░░░░░░░   27.86 % 
-AI                       22 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.59 % 
-SQL                      19 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
-IRCD_code                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
-
-💻 Operating System: 
-Windows                  2 hrs 9 mins        █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   10 repos            ███████████████████░░░░░░   76.92 % 
-Jupyter Notebook         3 repos             ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
-```
 
 
 ## 💡 Random Developer Wisdom
