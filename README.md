@@ -79,8 +79,16 @@ class RahulKumar:
 
 ## 🧠 Machine Learning Workflow
 
-Data Collection → Data Cleaning → Feature Engineering → Model Training → Model Evaluation → Model Deployment
+<p align="center">
 
+<img src="https://img.shields.io/badge/Data-Collection-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data-Cleaning-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Feature-Engineering-yellow?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Model-Training-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Model-Evaluation-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deployment-purple?style=for-the-badge"/>
+
+</p>
 
 # 🚀 Featured Machine Learning Projects
 
