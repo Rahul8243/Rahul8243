@@ -109,25 +109,53 @@ using medical dataset features.
 
 ---
 
-# 📚 Academic Coursework
+# 🎓 Academic Journey & Core Learning
 
-### 🧠 Data Structures & Algorithms
-Implemented fundamental algorithms and problem-solving techniques using Python, including sorting, searching, and complexity analysis.
-
-### ⚙️ Operating Systems
-Studied operating system concepts such as memory management, page replacement algorithms, and process scheduling.
-
-### 🗄️ Database Management Systems
-Worked with MySQL for database design, SQL queries, joins, and data management.
-
-### 🤖 Machine Learning
-Built predictive models using Python libraries such as Pandas, NumPy, and Scikit-Learn. 
-Worked on data preprocessing, feature engineering, model training, and evaluation for real-world datasets.
-
-### 📊 Data Analysis
-Performed exploratory data analysis and visualization using Pandas, Matplotlib, and Seaborn to extract insights from datasets.
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&color=00F7FF&center=true&vCenter=true&width=800&lines=Building+Strong+CS+Foundations+⚡;From+Theory+→+Real+World+Applications+🚀">
+</p>
 
 ---
+
+## 🧠 Data Structures & Algorithms
+🔹 Solved real-world problem patterns using Python  
+🔹 Implemented sorting, searching & optimization techniques  
+🔹 Focused on time & space complexity for scalable solutions  
+
+---
+
+## ⚙️ Operating Systems
+🔹 Explored process scheduling & memory management  
+🔹 Understood paging, deadlocks & CPU optimization  
+🔹 Built strong system-level thinking  
+
+---
+
+## 🗄️ Database Management Systems
+🔹 Designed relational databases using MySQL  
+🔹 Mastered joins, normalization & query optimization  
+🔹 Worked on real-world data handling scenarios  
+
+---
+
+## 🤖 Machine Learning
+🔹 Built end-to-end ML pipelines from data preprocessing → deployment  
+🔹 Worked with Scikit-learn, Pandas, NumPy  
+🔹 Applied feature engineering & model evaluation techniques  
+
+---
+
+## 📊 Data Analysis & Visualization
+🔹 Performed EDA on real datasets  
+🔹 Created insights using Matplotlib & Seaborn  
+🔹 Transformed raw data into actionable insights  
+
+---
+
+## 🚀 What Makes Me Different
+✔️ I don’t just study concepts — I implement them  
+✔️ I focus on real-world problem solving  
+✔️ I connect DSA + ML + Data to build intelligent systems  
 
 # ☁️ Google Colab Development
 
