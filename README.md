@@ -150,12 +150,7 @@ using medical dataset features.
 🔹 Created insights using Matplotlib & Seaborn  
 🔹 Transformed raw data into actionable insights  
 
----
-
-## 🚀 What Makes Me Different
-✔️ I don’t just study concepts — I implement them  
-✔️ I focus on real-world problem solving  
-✔️ I connect DSA + ML + Data to build intelligent systems  
+--- 
 
 # ☁️ Google Colab Development
 
