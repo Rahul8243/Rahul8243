@@ -292,6 +292,6 @@ Open to collaboration, Machine Learning discussions, or interesting tech ideas ð
 
 <br><br>
 
-ðŸš€ Thanks for visiting my GitHub profile
+ Thanks for visiting my GitHub profile!
 
 </div>
