@@ -7,7 +7,7 @@
 
 
 <p align="center">
-Building intelligent systems with data 
+Building intelligent systems with dat
 </p>
 
 ---
